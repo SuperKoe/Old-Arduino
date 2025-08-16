@@ -5,6 +5,7 @@ Projects:
 
 - I made the Atmel AT90CAN128 core work with Arduino (v0018).
   We used this chip at my school (NHL) they had their own development boards.
+  source: https://forum.arduino.cc/t/i-have-ported-at90can128-to-arduino/8508
 
 - Made attiny84 work with Arduino. i used this chip to make a Lego PF receiver to make a servo motor work.
   Sources: 

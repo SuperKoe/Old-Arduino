@@ -1,0 +1,43 @@
+at90can-0018 install instructions 17/03/2010
+============================================================
+
+
+The release of Arduino 0018 has eased the intergration of third part boards, here are
+the instructions of how to add support for the at90can into 0018.
+
+It is best to start with a fresh install of Arduino IDE 0018.
+
+Unzip at90can-0018, you will have a folder called at90can
+
+For the purpose of these instructions, i have the IDE installed at C:\Arduino0018\
+
+open the Arduino IDE folder and then the hardware folder, there will be 2 folders there
+already, "Arduino" and "tools"
+
+C:\
+____Arduino0018
+________________hardware
+_________________________arduino
+_________________________tools
+
+
+
+copy (drag n drop) the at90can folder into the hardware folder
+
+
+C:\
+____Arduino0018
+________________hardware
+_________________________arduino
+_________________________tools
+_________________________at90can
+
+
+
+Run Arduino IDE, click on Tool then boards and you will see AT90CAN128 development board NHL is now listed, 
+Select at90can as your board and you're sorted.
+
+Included are 2 sketch's using the can support.
+
+instructions are modifyed sanguino's instructions :)
+

@@ -10,5 +10,6 @@ Projects:
   Also attempted to make a bootloader of 0.5 KB in size in ASM, so you could upload with softserial (ATtiny84 doesn't have hardware serial).
 
 - Lego Power Functions. I made libraries for sending and receiving PF
+  Where it started: https://forum.arduino.cc/t/lego-powerfunctions-ir/38238
 
 Regards, R. Wiersma / SuperCow

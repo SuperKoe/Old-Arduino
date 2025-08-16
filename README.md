@@ -20,6 +20,6 @@ Projects:
     - https://forum.arduino.cc/t/luminet-based-on-attiny84/8933/250
 
 - Lego Power Functions. I made libraries for sending and receiving PF
-  Where it started: https://forum.arduino.cc/t/lego-powerfunctions-ir/38238
+  Where it started: https://forum.arduino.cc/t/lego-powerfunctions-ir/38238 and https://youtu.be/Gsfub53vDqc
 
 Regards, R. Wiersma / SuperCow

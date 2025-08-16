@@ -1,3 +1,6 @@
+I have made some stuff back around 2008-2010, and all the links and files are lost.
+So I am reuploading them here for archiving.
+
 Projects:
 
 - I made the Atmel AT90CAN128 core work with Arduino (v0018).
